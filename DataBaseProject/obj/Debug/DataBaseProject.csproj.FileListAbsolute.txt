@@ -1,0 +1,11 @@
+D:\Tudor\Proiecte c#\DataBaseProject\DataBaseProject\obj\Debug\DataBaseProject.csprojAssemblyReference.cache
+D:\Tudor\Proiecte c#\DataBaseProject\DataBaseProject\obj\Debug\DataBaseProject.Form1.resources
+D:\Tudor\Proiecte c#\DataBaseProject\DataBaseProject\obj\Debug\DataBaseProject.Properties.Resources.resources
+D:\Tudor\Proiecte c#\DataBaseProject\DataBaseProject\obj\Debug\DataBaseProject.csproj.GenerateResource.cache
+D:\Tudor\Proiecte c#\DataBaseProject\DataBaseProject\obj\Debug\DataBaseProject.csproj.CoreCompileInputs.cache
+D:\Tudor\Proiecte c#\DataBaseProject\DataBaseProject\bin\Debug\DataBaseProject.exe.config
+D:\Tudor\Proiecte c#\DataBaseProject\DataBaseProject\bin\Debug\DataBaseProject.exe
+D:\Tudor\Proiecte c#\DataBaseProject\DataBaseProject\bin\Debug\DataBaseProject.pdb
+D:\Tudor\Proiecte c#\DataBaseProject\DataBaseProject\obj\Debug\DataBaseProject.exe
+D:\Tudor\Proiecte c#\DataBaseProject\DataBaseProject\obj\Debug\DataBaseProject.pdb
+D:\Tudor\Proiecte c#\DataBaseProject\DataBaseProject\obj\Debug\DataBaseProject.csproj.ResolveComReference.cache
