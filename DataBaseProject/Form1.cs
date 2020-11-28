@@ -60,7 +60,7 @@ namespace DataBaseProject
         //DELETE ROWS
         private void delete()
         {
-            if (MessageBox.Show("Удалить?", "DELETE", MessageBoxButtons.OKCancel, MessageBoxIcon.Warning) == DialogResult.OK)
+            if (MessageBox.Show("Delete?", "DELETE", MessageBoxButtons.OKCancel, MessageBoxIcon.Warning) == DialogResult.OK)
             {
                 int index = dataGridView1.SelectedRows[0].Index;
 
